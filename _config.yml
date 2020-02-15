@@ -1,0 +1,46 @@
+title: Maru
+author: GitHub User
+email: workagile@outlook.com
+description: > # this means to ignore newlines until "show_exerpts:"
+  Record what I learned, what I thought... everyday.
+show_excerpts: false # set to true to show excerpts on the homepage
+
+paginate: 2
+paginate_path: "/blog/page:num/"
+
+tag_permalink_style: pretty
+tag_page_layout: tag_page
+tag_page_dir: tag
+
+# jekyll-dash date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+dash:
+  date_format: "%b %-d, %Y"
+
+  disqus:
+    shortname: agilemaru
+
+  # generate social links in footer
+  # supported colors: green, red, orange, blue, cyan, pink, teal, yellow, indigo, purple
+  social_links:
+    - url: https://github.com/gitmaruneko
+      icon: github-square
+      color: green
+    - url: https://twitter.com/thinkagile
+      icon: twitter-square
+      color: cyan
+    - url: https://www.facebook.com/discretentut
+      icon: facebook-square
+      color: blue
+
+
+# Build settings
+theme: jekyll-dash
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
+ - jekyll-paginate
+ - liquid-md5
+ - jekyll/tagging
+
