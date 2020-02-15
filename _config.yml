@@ -1,6 +1,6 @@
 title: Maru
-url: https://gitmaruneko.github.io
-author: gitmaruneko
+url: https://maruthink.github.io
+author: maruthink
 email: workagile@outlook.com
 description: > # this means to ignore newlines until "show_exerpts:"
   Record what I learned, what I thought... everyday.
@@ -38,9 +38,5 @@ dash:
 theme: jekyll-dash
 
 plugins:
- - jekyll-feed
- - jekyll-seo-tag
- - jekyll-paginate
- - liquid-md5
- - jekyll/tagging
-
+  - liquid-md5
+  - jekyll/tagging
