@@ -1,11 +1,12 @@
 title: Maru
-author: GitHub User
+url: https://gitmaruneko.github.io
+author: gitmaruneko
 email: workagile@outlook.com
 description: > # this means to ignore newlines until "show_exerpts:"
   Record what I learned, what I thought... everyday.
 show_excerpts: false # set to true to show excerpts on the homepage
 
-paginate: 2
+paginate: 5
 paginate_path: "/blog/page:num/"
 
 tag_permalink_style: pretty
@@ -18,7 +19,7 @@ dash:
   date_format: "%b %-d, %Y"
 
   disqus:
-    shortname: agilemaru
+    shortname: bitbrain-github-io
 
   # generate social links in footer
   # supported colors: green, red, orange, blue, cyan, pink, teal, yellow, indigo, purple
@@ -32,7 +33,6 @@ dash:
     - url: https://www.facebook.com/discretentut
       icon: facebook-square
       color: blue
-
 
 # Build settings
 theme: jekyll-dash
