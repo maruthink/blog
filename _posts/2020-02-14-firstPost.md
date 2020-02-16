@@ -5,18 +5,17 @@ description: "Welcome to my new blog series"
 tags: other
 ---
 
-建立了一個紀錄每天所學所思的空間  
-希望以此部落格來訓練思維  
 
 原本就打算今年要好好培養寫作習慣  
-在看了以下兩篇文章之後, 才決定要弄一個每日學習記錄空間  
+在看了以下幾篇文章之後, 才決定要弄一個每日學習記錄空間  
+希望以此部落格來訓練思維  
 
-* [刻意練習](http://teddy-chen-tw.blogspot.com/2016/04/blog-post_28.html)
-* [每一篇心得都有價值](https://medium.com/hulis-blog/why-blogging-ab77fd8c6ffa)
-* [我為什麼鼓勵工程師寫blog](https://dotblogs.com.tw/hatelove/2017/03/26/why-engineers-should-keep-blogging)
+### [刻意練習](http://teddy-chen-tw.blogspot.com/2016/04/blog-post_28.html)
+### [每一篇心得都有價值](https://medium.com/hulis-blog/why-blogging-ab77fd8c6ffa)
+### [我為什麼鼓勵工程師寫blog](https://dotblogs.com.tw/hatelove/2017/03/26/why-engineers-should-keep-blogging)
 
 
-> 藉由這個空間幫助自己培養以一個有系統, 有組織的方式來呈現內化後的知識 
+> 藉由這個空間培養自己能以一個有系統, 有組織的方式來呈現內化後的知識 
 
 ```
 When people ask me for advice on blogging,  
