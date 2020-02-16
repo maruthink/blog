@@ -15,7 +15,8 @@ tags: other
 ### [我為什麼鼓勵工程師寫blog](https://dotblogs.com.tw/hatelove/2017/03/26/why-engineers-should-keep-blogging)
 
 
-> 藉由這個空間培養自己能以一個有系統, 有組織的方式來呈現內化後的知識 
+> 藉由這個空間來培養自己能以一個有系統, 有組織的方式來呈現內化後的知識的能力
+(好拗口...) 
 
 ```
 When people ask me for advice on blogging,  
