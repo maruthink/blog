@@ -2,7 +2,7 @@
 layout: post
 title:  "Google的Python認證"
 description: "又是一次近半年的更新..."
-tags: Study
+tags: study
 ---
 
 <figure class="foto-legenda">
