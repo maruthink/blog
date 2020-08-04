@@ -17,10 +17,10 @@ tags: git study gitlab mirror
 最快的解決方式應該是branch更名了
 
 * 首先保存要更名的分支內容  
-  - git checkout -b $new_branch_name origin/$branch_name
+  \> git checkout -b $new_branch_name origin/$branch_name
 * 刪除遠端分支  
 * push新的分支  
-  - git push $new_branch_name  
+  \> git push $new_branch_name  
 
 執行後, 所有內容都mirror過去啦! 
 
