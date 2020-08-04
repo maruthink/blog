@@ -20,8 +20,8 @@ OpenBMC專案的編譯方式採用Yocto以及bitbake進行設定及編譯
 因此抽換此WEB包需要編寫*.bb檔案   
 
 * 至WEBGUI編譯路徑, 複製原有的bb file修改    
-  \> cd  ./meta-phosphor/recipes-phosphor/webui/  
-  \> cp phosphor-webui_git.bb webui-vue_git.bb  
+    \> cd  ./meta-phosphor/recipes-phosphor/webui/  
+    \> cp phosphor-webui_git.bb webui-vue_git.bb  
 * 修改git repo, 以及commit ID  
   <figure class="foto-legenda">
     <img src="{{ "/assets/2020/2020080401.jpg"}}">
