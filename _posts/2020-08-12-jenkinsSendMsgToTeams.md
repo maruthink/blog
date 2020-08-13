@@ -18,7 +18,7 @@ tags: ci teams jenkins
 這樣就不需要為了接收通知收取一大堆EMAIL  
 
 
-* 首先到Jenkins的套件管理安裝 **Office365 Connector**  
+* 首先到Jenkins的套件管理安裝 [**Office365 Connector**](https://plugins.jenkins.io/Office-365-Connector/)  
   <figure class="foto-legenda">
     <img src="{{ "/assets/2020/2020081300.jpg"}}">
   </figure>
