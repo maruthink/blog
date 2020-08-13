@@ -28,13 +28,13 @@ tags: ci teams jenkins
   建立完之後, 點選頻道右邊的選項 > 選擇 **連接器**  
 
   <figure class="foto-legenda">
-    <img src="{{ "/assets/2020/2020081301.jpg" width="50%"}}">
+    <img src="{{ "/assets/2020/2020081301.jpg"}}">
   </figure>
 
 * 選擇 **傳入 Webhook** > 點選 **設定**  
 
   <figure class="foto-legenda">
-    <img src="{{ "/assets/2020/2020081302.jpg" width="70%"}}">
+    <img src="{{ "/assets/2020/2020081302.jpg" "width="70%""}}">
   </figure>
 
 * 輸入要在頻道顯示的名稱 > 需要的話可上傳圖像(例如我是使用Jenkins爺爺的圖)  
