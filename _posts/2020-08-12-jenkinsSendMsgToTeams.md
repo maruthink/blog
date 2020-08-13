@@ -28,7 +28,7 @@ tags: ci teams jenkins
   建立完之後, 點選頻道右邊的選項 > 選擇 **連接器**  
 
   <figure class="foto-legenda">
-    <img src="{{ "/assets/2020/2020081301.jpg"}}">
+    <img src="/assets/2020/2020081301.jpg" width="50" />
   </figure>
 
 * 選擇 **傳入 Webhook** > 點選 **設定**  
