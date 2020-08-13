@@ -34,7 +34,7 @@ tags: ci teams jenkins
 * 選擇 **傳入 Webhook** > 點選 **設定**  
 
   <figure class="foto-legenda">
-    <img src="{{ "/assets/2020/2020081302.jpg" "width="70%""}}">
+    <img src="{{ "/assets/2020/2020081302.jpg""}}">
   </figure>
 
 * 輸入要在頻道顯示的名稱 > 需要的話可上傳圖像(例如我是使用Jenkins爺爺的圖)  
@@ -53,7 +53,7 @@ tags: ci teams jenkins
 * 記得勾選想要發送通知的狀態  
 
   <figure class="foto-legenda">
-    <img src="{{ "/assets/2020/2020081305.jpg" width="70%"}}">
+    <img src="/assets/2020/2020081305.jpg" widtdth="70" />
   </figure>
 
 * 建置後, 就可以在頻道中看到結果啦  
