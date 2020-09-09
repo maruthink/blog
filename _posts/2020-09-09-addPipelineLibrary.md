@@ -2,7 +2,7 @@
 layout: post
 title:  "[CI] Pipeline library - 將Jenkins工作轉換成pipeline的前置作業"
 description: ""
-tags: ci teams jenkins
+tags: ci jenkins pipeline
 ---
 
 
