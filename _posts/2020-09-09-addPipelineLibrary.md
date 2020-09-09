@@ -32,7 +32,7 @@ Jenkins上有個功能是可以把原本工作轉換成pipeline的
    在裏頭設定這些工作會用到的repo  
 
   <figure class="foto-legenda">
-    <img src="{{ "/assets/2020/20200901.jpg"}}">
+    <img src="{{ "/assets/2020/2020090901.jpg"}}">
   </figure>
 
 * ### 制定pipeline library
@@ -49,26 +49,26 @@ Jenkins上有個功能是可以把原本工作轉換成pipeline的
    例如: dowloadScrip(), sendReport()...etc
 
   <figure class="foto-legenda">
-    <img src="{{ "/assets/2020/20200902.jpg"}}">
+    <img src="{{ "/assets/2020/2020090902.jpg"}}">
    </figure>
 
 * ### 記得安裝 [git-repo](https://github.com/esrlabs/git-repo)
   (看到她跑起來有點感動, 中間一度忘記設定id_rsa private key, 
    code一直抓不下來, debug老半天)
    <figure class="foto-legenda">
-    <img src="{{ "/assets/2020/20200900.jpg"}}">
+    <img src="{{ "/assets/2020/2020090900.jpg"}}">
    </figure>
 
 * ### Jenkins job中的設定  
    記得要指定在pipeline-library建立的工作資料夾(devJob)
    <figure class="foto-legenda">
-    <img src="{{ "/assets/2020/20200904.jpg"}}">
+    <img src="{{ "/assets/2020/2020090904.jpg"}}">
    </figure>
 
 最後, 按下**建置**, Jenkins的pipeline工作就建立完成啦  
 Checkout, Deploy這些stage就是在pipeline library中的內容  
    <figure class="foto-legenda">
-    <img src="{{ "/assets/2020/20200903.jpg"}}">
+    <img src="{{ "/assets/2020/2020090903.jpg"}}">
    </figure>
 
 
